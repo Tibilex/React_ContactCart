@@ -25,7 +25,7 @@ function Cart(){
                         <div className='text__main'>51905</div>
                     </div>
                     <div className='text__block block__flex'>
-                        <a className='text__link' href='../index.html'>GitHub</a>
+                        <a className='text__link' href='https://github.com/Tibilex/React_ContactCart'>GitHub</a>
                         <a className='text__link' href='../index.html'>Instagram</a>
                         <a className='text__link' href='../index.html'>Facebook</a>
                     </div>
